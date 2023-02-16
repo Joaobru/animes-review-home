@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Home from '@src/pages';
+import Home from 'pages';
 import { render, screen } from '@testing-library/react';
 
 describe('HelloWorld', () => {

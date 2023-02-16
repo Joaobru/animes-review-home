@@ -44,7 +44,7 @@
 				"./src/hooks/*"
 			],
 			"@pages/*": [
-				"./src/pages/*"
+				"pages/*"
 			],
 			"@themes/*": [
 				"./src/themes/*"
